@@ -20,8 +20,6 @@
     "@material-ui/lab": "^4.0.0-alpha.55",
     "@material-ui/pickers": "^3.2.10",
     "@material-ui/styles": "^4.10.0",
-    "@nivo/core": "^0.67.0",
-    "@nivo/line": "^0.67.0",
     "@types/dompurify": "^2.0.3",
     "@types/react-instantsearch-dom": "^6.3.0",
     "@types/react-pdf": "^4.0.5",
