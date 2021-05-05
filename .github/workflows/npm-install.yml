@@ -1,7 +1,6 @@
 name: Run npm install
 on:
-  push:
-    branches: [ main ]
+  - push
 
 jobs:
   npm-install:
